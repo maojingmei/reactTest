@@ -6,7 +6,7 @@ export default {
   treeShaking: true,
   outputPath:'./publish',
   theme: {
-    "primary-color": "#009b72"
+    "primary-color": "orange"
   },
   routes: pageRoutes,
   plugins: [
